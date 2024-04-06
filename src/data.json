@@ -1,0 +1,202 @@
+[
+    {
+        "id": "LK.AD",
+        "temperature": 4.91,
+        "humidity": 97.84,
+        "air_pressure": 704.4,
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Anuradhapura"
+    },
+    {
+        "id": "LK.AP",
+        "temperature": 48.74,
+        "humidity": 84.5,
+        "air_pressure": 243.41,
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Ampara"
+    },
+    {
+        "id": "LK.BC",
+        "temperature": 40.33,
+        "humidity": 44.06,
+        "air_pressure": 49.84,
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Batticaloa"
+    },
+    {
+        "id": "LK.BD",
+        "temperature": 43.42,
+        "humidity": "47.66",
+        "air_pressure": "599.82",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Badulla"
+    },
+    {
+        "id": "LK.CO",
+        "temperature": 15.63,
+        "humidity": 17.46,
+        "air_pressure": 726.35,
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Colombo"
+    },
+    {
+        "id": "LK.GL",
+        "temperature": 31.16,
+        "humidity": 3.9,
+        "air_pressure": "694.42",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Galle"
+    },
+    {
+        "id": "LK.GQ",
+        "temperature": 7.12,
+        "humidity": "5.14",
+        "air_pressure": "256.6",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Gampaha"
+    },
+    {
+        "id": "LK.HB",
+        "temperature": 12.7,
+        "humidity": "90.4",
+        "air_pressure": "360.88",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Hambantota"
+    },
+    {
+        "id": "LK.JA",
+        "temperature": 14.36,
+        "humidity": "68.66",
+        "air_pressure": "754.48",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Jaffna"
+    },
+    {
+        "id": "LK.KE",
+        "temperature": 26.91,
+        "humidity": "74.66",
+        "air_pressure": "129.84",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Kegalle"
+    },
+    {
+        "id": "LK.KG",
+        "temperature": 19.75,
+        "humidity": "14.41",
+        "air_pressure": "629.4",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Kurunegala"
+    },
+    {
+        "id": "LK.KL",
+        "temperature": 18.8,
+        "humidity": "2.27",
+        "air_pressure": "604.84",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Kilinochchi"
+    },
+    {
+        "id": "LK.KT",
+        "temperature": 1.95,
+        "humidity": "70.59",
+        "air_pressure": "28.93",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Kalutara"
+    },
+    {
+        "id": "LK.KY",
+        "temperature": 15.11,
+        "humidity": "32.21",
+        "air_pressure": "921.2",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Kandy"
+    },
+    {
+        "id": "LK.MB",
+        "temperature": 16.61,
+        "humidity": "78.32",
+        "air_pressure": "966.45",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Mannar"
+    },
+    {
+        "id": "LK.MH",
+        "temperature": 15.04,
+        "humidity": "56.35",
+        "air_pressure": "945.57",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Matara"
+    },
+    {
+        "id": "LK.MJ",
+        "temperature": 13.9,
+        "humidity": "12.97",
+        "air_pressure": "622.72",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Monaragala"
+    },
+    {
+        "id": "LK.MP",
+        "temperature": 30.32,
+        "humidity": "64.03",
+        "air_pressure": "636.17",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Mullaitivu"
+    },
+    {
+        "id": "LK.MT",
+        "temperature": 0.48,
+        "humidity": "57.52",
+        "air_pressure": "41.5",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Matale"
+    },
+    {
+        "id": "LK.NW",
+        "temperature": 15.6,
+        "humidity": "74.25",
+        "air_pressure": "575.91",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Nuwara Eliya"
+    },
+    {
+        "id": "LK.PR",
+        "temperature": 7.04,
+        "humidity": "86.42",
+        "air_pressure": "651.9",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Polonnaruwa"
+    },
+    {
+        "id": "LK.PX",
+        "temperature": 38.05,
+        "humidity": "15.07",
+        "air_pressure": "813.92",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Puttalam"
+    },
+    {
+        "id": "LK.RN",
+        "temperature": 22.99,
+        "humidity": "62.64",
+        "air_pressure": "741.89",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Ratnapura"
+    },
+    {
+        "id": "LK.TC",
+        "temperature": 27.39,
+        "humidity": "79.65",
+        "air_pressure": "883.82",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Trincomalee"
+    },
+    {
+        "id": "LK.VA",
+        "temperature": 27.92,
+        "humidity": "82.66",
+        "air_pressure": "189.36",
+        "timestamp": "2024-04-02T21:09:06.000Z",
+        "location": "Vavuniya"
+    }
+]
